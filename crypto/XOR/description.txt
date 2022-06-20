@@ -1,0 +1,12 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+Nous avons récupéré des messages transmis par un PDG d'une grande entreprise à son comptable. L'objectif et de déchiffrer le dernier message, car il peut contenir des informations qui pourraient nous permettre de se connecter au compte bancaire du PDG.
+
+[flag]
+INSACRACK{l3_X0R_S3mb13_un3_BoNn3_m3Th0d3}
+
