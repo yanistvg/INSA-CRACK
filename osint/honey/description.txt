@@ -1,0 +1,11 @@
+[difficulté]
+	2 / 3
+
+[points]
+	75 pts
+
+[description]
+051n7.png (pas d'aides, la question est dans l'exif de l'image)
+
+[flag]
+INSACRACK{Macchi Bears}
