@@ -1,7 +1,9 @@
 <?php
 session_start();
-$username = $_COOKIE['PHPSESSID'];
-if($username == 'kh6nv0kjevloakf9ompttsnaql')
+var_dump($_SESSION);
+var_dump($_COOKIE);
+$username = $_SESSION['id_user'];
+if($username == '17')
 {
   var_dump('le flag est : xxxx');
 }
