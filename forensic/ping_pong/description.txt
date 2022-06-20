@@ -1,0 +1,12 @@
+[difficulté]
+	1 / 3
+
+[points]
+	70 pts
+
+[description]
+Deux étudiants de l'INSA s'amusent à s'envoyer des messages en cours. Monsieur Abdallah souhaite que vous trouviez ce qui les fait tant rire.
+
+[flag]
+INSACRACK{P1N6_P0N6_F0R3N51C_15_50_C001}
+
