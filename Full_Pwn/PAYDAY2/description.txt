@@ -1,0 +1,16 @@
+[difficulté]
+	2 / 3
+
+[points]
+	150 pts
+
+[description]
+	Bon les gars, on m'a dit que vous vouliez rejoindre le gang PAYDAY. Vous allez devoir faire vos preuves.
+	Pour me prouver vos qualités de braqueur, votre première mission sera la First World Bank.
+	Bain -
+ 
+
+[flag]
+INSACRACK{PY7H0N_L18R4R135_H4V3_N0_53CR37_F0R_M3}
+INSACRACK{1_R34LY_N33D_4_M3D1C_846}
+INSACRACK{R0071N6_4_M4CH1N3_15_345Y_P345Y}
