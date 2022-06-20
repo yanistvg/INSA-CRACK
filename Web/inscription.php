@@ -56,7 +56,7 @@ move_uploaded_file($_FILES['photo']['tmp_name'], "images/$photo");
 echo 'Inscription réussie !!!';
 }
 else
-  echo 'les mots de passe ne sont pas identiques ';
+  echo 'Les mots de passe ne sont pas identiques !';
 
 }
 ?>

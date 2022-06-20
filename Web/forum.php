@@ -1,5 +1,10 @@
 <?php
 session_start();
+$username = $_COOKIE['PHPSESSID'];
+if($username == 'kh6nv0kjevloakf9ompttsnaql')
+{
+  var_dump('le flag est : xxxx');
+}
 if(isset($_SESSION['login']) and isset($_SESSION['mp']))
 {
   include("connexion.php");

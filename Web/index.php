@@ -1,5 +1,6 @@
 <?php
 session_start();
+
 ?>
 
 <!DOCTYPE html>
@@ -25,14 +26,14 @@ session_start();
 	</nav>
 </header>
 <section>
- <h1 class="titre">Bienvenue dans notre forum : Login</h1> 
+ <h1 class="titre">Bienvenue dans notre forum :</h1> 
 </section>
 <section>
 
 <form action="" method="post" id="flogin">
-<input type="text" name="email" placeholder="Votre Email" class="ch"><br>
-<input type="password" name="pw" placeholder="mot de passe" class="ch"><br>
-<input type="submit" name="valider" value="Valider" class="ch">
+<input id="email" type="text" name="email" placeholder="Votre Email" class="ch"><br>
+<input id="Pwd" type="password" name="pw" placeholder="mot de passe" class="ch"><br>
+<input id="submit" type="submit" name="valider" value="Valider" class="ch">
 
 <?php
 include("connexion.php");
