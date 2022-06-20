@@ -1,0 +1,11 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+Nous avons reçu une image d'avertissement d'un utilisateur anonyme. Il semblerait qu'il veuille nous faire passer un message... Faites attention : un train peut en cacher un autre !
+
+[flag]
+INSACRACK{un_pn9_p3u7_3n_c4ch32_un_4u723}
