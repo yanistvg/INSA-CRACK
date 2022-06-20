@@ -1,0 +1,12 @@
+[difficulté]
+	2 / 3
+
+[points]
+	150 pts
+
+[description]
+J'ai retrouver un fichier que je n'avais pas regardé depuis longtemps et la police d'origine je ne la retrouve plus. Trouver le message que contient ce fichier.
+
+[flag]
+INSACRACK{mA_suP3r_p0liC3_eSt_afFich4Bl3}
+
