@@ -1,0 +1,12 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+J'ai récupéré des fichiers et une clef dans un ordinateur qui ressemble a un journal intime. J'ai réussi à déchiffrer un message, mais le second n'a pas la même clef. Pourras-tu trouver la clef pour déchiffrer le message ?
+
+[flag]
+INSACRACK{U53_0F_K3Y_N07_700_10N6}
+
