@@ -1,0 +1,147 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+header{
+	width: 100%;
+	height: 80px;
+	background-color: #cecece;
+}
+nav{
+	width: 400px;
+	height: 50px;
+	padding-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+nav ul{
+	list-style: none;
+}
+nav li{
+	margin-bottom: 5px;
+	float: left;
+}
+nav ul a{
+	display: block;
+	margin: 0 10px;
+	border-radius: 20px;
+	width: auto;
+	padding: 5px 20px;
+	background-color: orange;
+	line-height: 25px;
+	text-align: center;
+	color:white;
+	text-decoration:none;
+}
+nav ul a:hover{
+	color:white;
+	background-color: grey;
+}
+
+
+
+.titre{
+	width: auto;
+	line-height: 80px;
+	padding: 10px 30px;
+	margin-left: auto;
+	text-align: center;
+	margin-right: auto;
+	background-color: skyblue;
+	border:solid 2px orange;
+}
+
+.btn{
+	display: block;
+	width: 140px;
+	margin: 10px auto;
+	color: white;
+	background-color: orange;
+	line-height: 25px;
+	text-align: center;
+	text-decoration:none;
+	border-radius: 20px;
+}
+
+
+
+
+
+#flogin{
+  width: 320px;
+  height:auto;
+  margin-top: 50px;
+  padding: 30px;
+  background-color: skyblue;
+  margin-right: auto;
+  margin-left: auto;
+  border:solid 2px red;
+  clear: both; 
+  
+}
+#inscription{
+  width: 320px;
+  height:auto;
+  margin-top: 50px;
+  padding: 30px;
+  background-color: skyblue;
+  margin-right: auto;
+  margin-left: auto;
+  border:solid 2px red;
+  clear: both; 
+  
+}
+.ch{
+  width: 320px;
+  height: 30px;
+  border:none;
+  text-indent: 5px;
+  font-family: Trebuchet Ms;
+  font-size: 16px;
+  margin-top: 10px;
+}
+.btn2{
+  width: 150px;
+  height: 30px;
+  font-family: Trebuchet Ms;
+  font-size: 16px;
+float: right;
+border:none;
+border-radius: 6px;
+color: white;
+margin-top: 20px;
+background-color: #0e81ba;
+margin: 5px;
+}
+
+#sect1{
+  width: 60%;
+  height:auto;
+  margin-top: 20px;
+  padding: 50px;
+  margin-right: auto;
+  margin-left: auto;  
+}
+#div1 img{
+margin-right: 10px;
+width: 40px;
+height: 40px;
+border-radius:50px;
+float: left;
+}
+#div2{
+	width: 100%;
+	height: auto;
+	padding: 15px;
+	background-color: #a4defd;
+	margin: 10px;
+}
+#zmessage{
+	width: 100%;
+	height: 80px;
+	padding: 15px;
+	margin: 10px;
+	font-size:16px;
+}
