@@ -1,0 +1,11 @@
+[difficulté]
+	1 / 3
+
+[points]
+	85 pts
+
+[description]
+Pour que personnes ne puisse recuperer mon mot de passe j'ai utilisé un script pour essayer de le chiffrer. Le fichier de sortie contient ce mot de passe mais j'ai perdue l'original suite a une movaise manipulation. Seriez-vous capable de retrouver mon mod de passe avec la sortie et le code que j'ai utilisé.
+
+[flag]
+INSACRACK{mY_SuP3r_H4sH_s3cR3t}
