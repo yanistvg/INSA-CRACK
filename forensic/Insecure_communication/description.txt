@@ -1,0 +1,11 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+Un professeur d'anglais avait besoin de ma 4G pour se rendre sur le site de l'INSA depuis son PC. Il a récupéré la liste des élèves. Vous pourriez faire de même ?
+
+[flag]
+INSACRACK{W1R354RK_15_4_6R347_7001}
