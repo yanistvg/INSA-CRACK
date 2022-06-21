@@ -1,0 +1,13 @@
+[difficulté]
+	2 / 3
+
+[points]
+	100 pts
+
+[description]
+Ton meilleur pote t'a envoyé ce PDF récapitulatif de la maquette pédagogique de l'INSA CVL.
+Mais lorsque tu l'ouvres dans ton navigateur préféré, un drôle de message s'affiche. Bizarre ?!
+Est-ce qu'il ne cacherait rien d'autre ?
+
+[flag]
+INSACRACK{U51N6_J5_1N_PDF_15_5M4R7}
