@@ -1,0 +1,12 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+Mon pote m'a donné le code source de son blog en me demandant si je pouvais le pirater. Est-ce qu'on pourrait récupérer l'indentifiant et le mdp de l'admin ?
+Le flag est de la forme : INSACRACK{mdp}
+
+[flag]
+INSACRACK{my_p455w0rd_15_v3ry_57r0n6_83c4u53_17_5_10n6}
