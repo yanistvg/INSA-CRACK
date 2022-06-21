@@ -1,0 +1,3 @@
+$ strings easy_code.bin | grep "INSACRACK"
+INSACRACK{I7_s_3as13r_7HaN_y0U_tH1nk}
+$
