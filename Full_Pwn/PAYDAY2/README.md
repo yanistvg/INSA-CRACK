@@ -1,6 +1,6 @@
 # Payday 2 CTF
 
-Pour commencer, on doit scanner le réseau pour trouver l'IP de la VM. Une fois l'IP récupéré, nous pouvons nous connecter au site. j'en profite pour ajouter l'IP au fichier hosts et donner le nom de vhost ```crimte.net``` :</br>
+Pour commencer, on doit scanner le réseau pour trouver l'IP de la VM. Une fois l'IP récupéré, nous pouvons nous connecter au site. j'en profite pour ajouter l'IP au fichier hosts et donner le nom de vhost ```crime.net``` :</br>
 ![image](https://user-images.githubusercontent.com/73934639/174621252-3b607145-81c2-4fd7-917c-497fd42cd773.png)
 
 À la lecture de la page, on n’a pas l'impression qu'il y ait quoi que ce soit d'intéressant. On peut commencer par lancer du fuzzing sur le site. Je vais utiliser gobuster :</br>
