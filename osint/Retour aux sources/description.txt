@@ -1,0 +1,12 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+Mon pote a mis cette photo sur son insta, ça me dis vagement quelque-chose. Tu saurais où c'est ?
+Flag de la forme INSACRACK{md5(nom_Batiment_numéroEtage)}
+
+[flag]
+INSACRACK{d3ca3404ce4e7e4d3f8605d20cbd26dc}
