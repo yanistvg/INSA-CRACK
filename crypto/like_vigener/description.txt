@@ -1,0 +1,12 @@
+[difficulté]
+	3 / 3
+
+[points]
+	200 pts
+
+[description]
+Nous avons interfecpté ce message envoyer par un détenue vert l'extérieur de la prison. Nous soupsonnons une tentative d'évasion. Votres mission est de réussir a traduire le message. Nous vous donnons un code qui permet de transformer votres message en FLAG.
+
+[flag]
+INSACRACK{l_3v4si0n_3st_pr3vu3_p0ur_d4ns_d3ux_j0urs_j3_s0rtir4is_p4r_l3s_3g0ux}
+
