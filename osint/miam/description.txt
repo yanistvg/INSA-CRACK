@@ -1,0 +1,12 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+Quel est le prix du Menu Saveur ?
+Le flag est de la forme : INSACRACK{md5(prix)}
+
+[flag]
+INSACRACK{a6c1f34f5a01dc885208ac2e0a4f2f38}
