@@ -1,0 +1,12 @@
+[difficulté]
+	1 / 3
+
+[points]
+	50 pts
+
+[description]
+Un ami m'a dit qu'il avait trouvé un site contenant potentiellement des failles... Au vue de tes capacitésà hacker, tu devrais y jeter un oeil. Mais il m'a dit que parfois la vraie mine d'or d'informations n'est pas là où on pourrait s'y attendre.
+
+[flag]
+INSACRACK{thecolorofmoney}
+
